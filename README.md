@@ -6,13 +6,13 @@
   <img align="center" src="https://velog.velcdn.com/images/justhighway/post/ffa16e85-0f1a-4799-8b51-5b943b8e6f2a/image.png" style="width: 40%"/>
 </a>
 
-<br/><br/>
+---
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justhighway&count_private=true&show_icons=true&hide=stars"/>
 </a>
 
-<br/><br/>
+---
 
 <a>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
