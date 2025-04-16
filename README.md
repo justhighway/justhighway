@@ -1,6 +1,7 @@
 
-## Hi there 👋
+
 <div align="center">
+  ## Hi there 👋
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justhighway&count_private=true&show_icons=true&theme=github_dark_dimmed&hide=stars" />
 </a>
