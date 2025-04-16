@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justhighway)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justhighway)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
 <span>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
