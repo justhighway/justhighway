@@ -6,6 +6,9 @@
 </a>
 </div>
 
+<br />
+<br />
+
 <div>
 <a>
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
@@ -22,8 +25,6 @@
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=justhighway&count_private=true&show_icons=true&hide=stars"/>
 </a>
-
----
 
 
 
